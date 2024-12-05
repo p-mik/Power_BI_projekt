@@ -1,4 +1,16 @@
 <h1>Průvodní list k projektu</h1>
+<p>"""<br>
+PowerBI projekt do Engeto Online Python Akademie<br>
+author: Petr Mikulky<br>
+email: petr.mikulka@gmail.com<br>
+discord: p_mik Mik#7555<br>
+"""<br>
+</p>
+
+<h4>Poznámka předem</h4>
+<p>Omlouvám se za odevzdání projektu takto pozdě. Dělám co můžu. Zároveň si nejsem jistý, jestli projekt vůbec odevzdávám správným způsobem. Případně prosím o informaci, v jakém formátu mám projekt odevzdat, aby byl pro vás zobrazitelný.</p>
+
+
 <h2>Zdroje dat:</h2>
 <ul>
     <li>otazka1.csv - Vizuál 2</li>
