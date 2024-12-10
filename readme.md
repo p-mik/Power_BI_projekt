@@ -7,6 +7,29 @@ discord: p_mik Mik#7555<br>
 """<br>
 </p>
 
+---
+<h1>Oprava</h1>
+<h3>Kalendářová tabulka</h3>
+<p>Původně jsem chtěl vytvořit kalendářovou tabulku s daty pro každý den, ale vzhledem k tomu, že ve zdrojových datech pracuji jen s rokem, přinášela taková kalendářová tabulka jen problémy. Proto jsem ji vytvořil pouze s roky a využil ji ve vizuálech.</p>
+<h3>Navigační šipky</h3>
+<p>Přiřadil jsem navigačním šipkám akce, to mi původně uniklo.</p>
+<h3>Úpravy vizuálů</h3>
+<p>Vizuál jsem upravil tak, že:</p>
+<ul>
+<li>Font všeho byl změněn na <strong>Verdanu</strong>.</li>
+<li>Upravil jsem pozadí vizuálů a stránek a jejich zarovnání.</li>
+<li>Nadepsal jsem jednotlivé stránky pomocí textboxů, díky čemuž jsem mohl u vizuálů 1 a 2 odstranit nadpisy.</li>
+</ul>
+<h3>Redukce stránek</h3>
+<p>Stránky jsem zredukoval na <strong>3</strong> – tabulku z poslední stránky jsem přesunul a upravil.</p>
+<h3>Popisky</h3>
+<p>Automaticky generované popisky jsem přepsal do <strong>lidštiny</strong>.</p>
+<h3>Slicer</h3>
+<p>Slicer na první stránce jsem posunul mimo vizuál kartogramu. Přes vizuál jsem ho umístil proto, že mi to připadalo zajímavé – ne vždy je to ale efektivní.</p>
+
+---
+<h1>Před opravou:</h1>
+
 <h4>Poznámka předem</h4>
 <p>Omlouvám se za odevzdání projektu takto pozdě. Dělám co můžu. Zároveň si nejsem jistý, jestli projekt vůbec odevzdávám správným způsobem. Případně prosím o informaci, v jakém formátu mám projekt odevzdat, aby byl pro vás zobrazitelný.</p>
 
