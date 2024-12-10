@@ -9,6 +9,9 @@ discord: p_mik Mik#7555<br>
 
 ---
 <h1>Oprava</h1>
+
+<p><strong>Opravený soubor:</strong> Engeto_projekt_1_oprava.pbix</p>
+
 <h3>Kalendářová tabulka</h3>
 <p>Původně jsem chtěl vytvořit kalendářovou tabulku s daty pro každý den, ale vzhledem k tomu, že ve zdrojových datech pracuji jen s rokem, přinášela taková kalendářová tabulka jen problémy. Proto jsem ji vytvořil pouze s roky a využil ji ve vizuálech.</p>
 <h3>Navigační šipky</h3>
